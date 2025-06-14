@@ -2,7 +2,7 @@
 
 **Play Subway Surfers using real-time body movements detected via webcam.**
 
-## 🧠 What Is This?
+## What Is This?
 
 This Python application captures your body pose using a webcam and translates physical movements—leaning left/right or jumping/crouching—into keyboard commands to control Subway Surfers in real time.
 
